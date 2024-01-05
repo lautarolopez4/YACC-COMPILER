@@ -1,0 +1,6 @@
+ESTRUCTURAS SINTACTICAS DETECTADAS ----------------------------------
+Sentencia OUT. Linea 4
+Sentencia WHEN. Linea 5
+Sentencia OUT. Linea 6
+Programa terminado . Linea 7
+ERRORES SINTACTICOS -----------------------------------

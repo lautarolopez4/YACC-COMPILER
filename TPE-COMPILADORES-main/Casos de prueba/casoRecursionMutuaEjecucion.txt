@@ -1,0 +1,14 @@
+
+
+main{
+    fun f1(): ui8 {
+        fun f2() : ui8{
+            f1();
+            return 3;
+        };
+        f2();
+        return 2;
+    };
+
+    f1();    
+}

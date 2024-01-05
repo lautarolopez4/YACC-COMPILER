@@ -1,0 +1,4 @@
+ESTRUCTURAS SINTACTICAS DETECTADAS ----------------------------------
+Asignacion en linea 4
+Programa terminado . Linea 5
+ERRORES SINTACTICOS -----------------------------------

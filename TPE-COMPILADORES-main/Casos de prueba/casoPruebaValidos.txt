@@ -1,0 +1,28 @@
+main {
+    ui8 a;
+    a=:3;
+    if(a<3)then{
+        a=:7;
+    }
+    else
+        out('wow');
+    end_if;
+    
+    for(j=:3 ; j<30 ; +1)
+        break;
+
+    fun prueba() : ui8 {
+        return 3;
+    };
+
+    when(74<3)then{
+        ui8 c;
+    };
+
+    a =: prueba();
+
+    out('prueba');
+
+    const pepe =: 3.3D50;
+
+}

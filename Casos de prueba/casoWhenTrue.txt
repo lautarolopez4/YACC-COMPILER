@@ -1,0 +1,7 @@
+main{
+    when(3<50) then{
+        ui8 a, b ,c; 
+        out('Verdadero');
+    };
+    out('Fuera');
+}

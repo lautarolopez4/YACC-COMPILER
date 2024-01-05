@@ -1,0 +1,14 @@
+TOKENS DETECTADOS ----------------------------------
+Token ID269, Nro linea : 1 Lexema: main
+Token ID275, Nro linea : 1 Lexema: {
+Token ID267, Nro linea : 2 Lexema: ui8
+Token ID269, Nro linea : 2 Lexema: a
+Token ID288, Nro linea : 2 Lexema: ;
+Token ID269, Nro linea : 4 Lexema: a
+Token ID291, Nro linea : 4 Lexema: =:
+Token ID294, Nro linea : 4 Lexema: 3
+Token ID282, Nro linea : 4 Lexema: -
+Token ID294, Nro linea : 4 Lexema: 30
+Token ID288, Nro linea : 4 Lexema: ;
+Token ID276, Nro linea : 5 Lexema: }
+ERRORES LEXICOS -----------------------------------

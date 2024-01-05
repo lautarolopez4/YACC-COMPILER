@@ -1,0 +1,7 @@
+main{
+    defer if(30>3)then{
+        out('sentencia 1');
+    }end_if;
+    defer out('sentenciaa 2');
+    out('sentencia 3');
+}

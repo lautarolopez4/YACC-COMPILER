@@ -1,0 +1,7 @@
+ESTRUCTURAS SINTACTICAS DETECTADAS ----------------------------------
+Sentencia RETURN. Linea 7
+Declaracion FUNCIÓN. Linea 8
+Sentencia RETURN. Linea 10
+Declaracion FUNCIÓN. Linea 11
+Programa terminado . Linea 14
+ERRORES SINTACTICOS -----------------------------------

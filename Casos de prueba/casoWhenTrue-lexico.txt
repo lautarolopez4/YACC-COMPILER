@@ -1,0 +1,32 @@
+TOKENS DETECTADOS ----------------------------------
+Token ID269, Nro linea : 1 Lexema: main
+Token ID275, Nro linea : 1 Lexema: {
+Token ID265, Nro linea : 2 Lexema: when
+Token ID286, Nro linea : 2 Lexema: (
+Token ID294, Nro linea : 2 Lexema: 3
+Token ID277, Nro linea : 2 Lexema: <
+Token ID294, Nro linea : 2 Lexema: 50
+Token ID287, Nro linea : 2 Lexema: )
+Token ID258, Nro linea : 2 Lexema: then
+Token ID275, Nro linea : 2 Lexema: {
+Token ID267, Nro linea : 3 Lexema: ui8
+Token ID269, Nro linea : 3 Lexema: a
+Token ID290, Nro linea : 3 Lexema: ,
+Token ID269, Nro linea : 3 Lexema: b
+Token ID290, Nro linea : 3 Lexema: ,
+Token ID269, Nro linea : 3 Lexema: c
+Token ID288, Nro linea : 3 Lexema: ;
+Token ID261, Nro linea : 4 Lexema: out
+Token ID286, Nro linea : 4 Lexema: (
+Token ID271, Nro linea : 4 Lexema: Verdadero
+Token ID287, Nro linea : 4 Lexema: )
+Token ID288, Nro linea : 4 Lexema: ;
+Token ID276, Nro linea : 5 Lexema: }
+Token ID288, Nro linea : 5 Lexema: ;
+Token ID261, Nro linea : 6 Lexema: out
+Token ID286, Nro linea : 6 Lexema: (
+Token ID271, Nro linea : 6 Lexema: Fuera
+Token ID287, Nro linea : 6 Lexema: )
+Token ID288, Nro linea : 6 Lexema: ;
+Token ID276, Nro linea : 7 Lexema: }
+ERRORES LEXICOS -----------------------------------

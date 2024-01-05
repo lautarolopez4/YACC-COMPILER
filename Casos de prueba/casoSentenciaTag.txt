@@ -1,0 +1,10 @@
+main{
+    prueba : for(i=:3; i<30; +1){
+        for(j=:3; j<30; +5)
+            if(30<3)then
+                break;
+            else
+                break : prueba;
+            end_if;
+    };
+}

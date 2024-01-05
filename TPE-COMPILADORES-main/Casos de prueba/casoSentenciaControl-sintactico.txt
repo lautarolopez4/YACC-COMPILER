@@ -1,0 +1,10 @@
+ESTRUCTURAS SINTACTICAS DETECTADAS ----------------------------------
+Asignacion dentro del for en linea 2
+Asignacion dentro del for en linea 3
+Sentencia Break. Linea 5
+Sentencia CONTINUE dentro de for. Linea 7
+Sentencia IF. Linea 8
+Sentencia FOR. Linea 8
+Sentencia FOR. Linea 9
+Programa terminado . Linea 10
+ERRORES SINTACTICOS -----------------------------------

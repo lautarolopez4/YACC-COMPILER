@@ -1,0 +1,7 @@
+main{
+    when(100<50)then{
+        ui8 a, b ,c; 
+        out('FALSO');
+    };
+    out('Fuera');
+}
